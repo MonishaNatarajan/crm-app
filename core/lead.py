@@ -12,5 +12,10 @@ def create_lead():
 
 #delete Lead
 	def delete_lead():
-		print "Deleted the lead successfully"
+		print "Removed the lead successfully"
+
+
+#View Lead
+	def View_lead():
+		print "Viewed the lead successfully"
 
