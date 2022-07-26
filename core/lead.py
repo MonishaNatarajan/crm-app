@@ -16,4 +16,4 @@ def create_lead():
 
 #bugfix Lead
     def bigfix_lead():
-    	Print "Bugfix lead created successfully"
+    	Print "Bugfix lead created successfully and tested"
