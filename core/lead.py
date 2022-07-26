@@ -14,7 +14,7 @@ def create_lead():
 	def delete_lead():
 		print "Removed the lead successfully"
 
+#Test Lead
+	test_lead():
+		print "Tested the Marge conflict successfully"
 
-#View Lead
-	def View_lead():
-		print "Viewed the lead successfully"
