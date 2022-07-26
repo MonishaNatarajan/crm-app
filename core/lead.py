@@ -17,4 +17,4 @@ def create_lead():
 
 #Access Lead
 	def Access_lead():
-		print "Accessed the lead successfully"
+		print "Accessed fuction the lead successfully"
