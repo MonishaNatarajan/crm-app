@@ -12,7 +12,11 @@ def create_lead():
 
 #delete Lead
 	def delete_lead():
-		print "Deleted the lead successfully"
+		print "Removed the lead successfully"
+
+#Test Lead
+	test_lead():
+		print "Tested the Marge conflict successfully"
 
 
 
