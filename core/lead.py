@@ -15,7 +15,10 @@ def create_lead():
 		print "Removed the lead successfully"
 
 
-#View Lead
-	def View_lead():
-		print "Viewed the lead successfully"
+#Modify Lead
+	def modify_lead():
+		print "Modified the lead successfully"
 
+#Access Lead
+	def Access_lead():
+		print "Accessed fuction the lead successfully"
