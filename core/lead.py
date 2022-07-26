@@ -14,3 +14,6 @@ def create_lead():
 	def delete_lead():
 		print "Deleted the lead successfully"
 
+#bugfix Lead
+    def bigfix_lead():
+    	Print "Bugfix lead created successfully"
