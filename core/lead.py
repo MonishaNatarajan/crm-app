@@ -14,3 +14,7 @@ def create_lead():
 	def delete_lead():
 		print "Deleted the lead successfully"
 
+#Test lead
+	def test_lead():
+		print "This is to test the git reset - soft mode"
+
