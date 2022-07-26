@@ -18,8 +18,3 @@ def create_lead():
 #View Lead
 	def View_lead():
 		print "Viewed the lead successfully"
-
-
-#Access Lead
-	def Access_lead():
-		print "Accessed fuction the lead successfully"
